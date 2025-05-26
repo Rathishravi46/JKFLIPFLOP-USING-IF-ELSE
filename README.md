@@ -4,6 +4,8 @@ Name: Rathish R
 
 Ref no: 24901297
 
+Date : 29.04.25
+
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
